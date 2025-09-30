@@ -1,5 +1,1 @@
-"# technicaltestDE_web_berita" 
-"# Belajar-python" 
-"# Belajar-python" 
-"# Belajar-python" 
-"# Belajar-python" 
+url pembelajaran : https://youtu.be/fmZX-5r0t5E
